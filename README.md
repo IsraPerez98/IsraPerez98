@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/IsraPerez98"><img src="https://api.daily.dev/devcards/ce79cb53686a4452a84920b083f9e8f1.png?r=p4i" width="400" alt="Israel Perez's Dev Card"/></a>
+
 <!--
 **IsraPerez98/IsraPerez98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
