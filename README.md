@@ -12,7 +12,7 @@ I'm a future Civil Engineer in Computer Science and currently living in Chile. I
 
 ## 🚀 Current Projects:
 
-- 🔭 I'm currently working on my [degree work](https://github.com/IsraPerez98/app-titulo).
+- 🔭 I'm currently working on [Stremio-TuSubtitulo](https://github.com/IsraPerez98/Stremio-TuSubtitulo).
 - 🌱 I'm also actively learning Rust and working on small projects to improve my skills in the language.
 
 ## 🌎 Find me on:
