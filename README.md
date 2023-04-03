@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Israel!
 
-I'm a future Civil Engineer in Computer Science and currently living in Chile. I am 24 years old and am currently studying Computer Science Engineering at [UTEM](https://www.utem.cl/). I am a Linux user and an enthusiast of open-source software (OSS).
+I'm a Computer Science Engineer currently living in Chile. I am 24 years old and recently graduated from Civil Engineering in Computer Science with a specialization in Computer Science at [UTEM](https://fing.utem.cl/carreras-ingreso-paes/ingenieria-civil-en-computacion-mencion-informatica/). I am a Linux user and an enthusiast of open-source software (OSS).
 
 ## 💻 Skills:
 
@@ -12,7 +12,7 @@ I'm a future Civil Engineer in Computer Science and currently living in Chile. I
 
 ## 🚀 Current Projects:
 
-- 🔭 I'm currently working on [Stremio-TuSubtitulo](https://github.com/IsraPerez98/Stremio-TuSubtitulo).
+- 🔭 I'm currently working on [israelperez.cl](https://israelperez.cl) as a personal website.
 - 🌱 I'm also actively learning Rust and working on small projects to improve my skills in the language.
 
 ## 🌎 Find me on:
